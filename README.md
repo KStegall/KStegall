@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hi there, I'm Karston👋
-- 🔭 I’m currently working on the Odin Project (https://www.theodinproject.com/)
+- 🔭 I’m currently working on the Odin Project (https://www.theodinproject.com/).
 - 🎓 I'm currently finishing my Bachelors in Software Engineering at Arizona State University.
 - 💬 Ask me about Python
 - 📫 How to reach me: LinkedIn
