@@ -1,10 +1,9 @@
 ### Hi there 👋
 Hi there, I'm Karston👋
-- 🔭 I’m currently working on the Odin Project (https://www.theodinproject.com/).
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/).
 - 🎓 I'm currently finishing my Bachelors in Software Engineering at Arizona State University.
 - 💬 Ask me about Python
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karston-stegall/)
 <!--
 **KStegall/KStegall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
