@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Hi there, I'm Karston👋
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/).
 - 🎓 I'm currently finishing my Bachelors in Software Engineering at Arizona State University.
