@@ -1,8 +1,8 @@
 
 Hi there, I'm Karston👋
-- 🔭 I’m currently working on a mobile game
+- 🔭 I’m currently working Voiced Memories
 - 🎓 Major in Software Engineering and Minor in Data Science
-- 💬 Ask me about Python
+- 💬 Ask me about Machine Learning and AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karston-stegall/)
 <!--
 **KStegall/KStegall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
